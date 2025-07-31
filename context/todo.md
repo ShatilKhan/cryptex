@@ -72,8 +72,8 @@ This document outlines the full development plan for the Cryptex MVP. Follow the
       export const functions = new Functions(client);
       ```
 
-- [ ] **5. Setup Version Control and Deployment**
-    - [ ] Initialize a Git repository: `git init && git add . && git commit -m "Initial commit"`.
+- [X] **5. Setup Version Control and Deployment**
+    - [X] Initialize a Git repository: `git init && git add . && git commit -m "Initial commit"`.
     - [ ] Create a new project on [Vercel](https://vercel.com/new) and link it to your Git repository.
     - [ ] Add all environment variables from `.env.local` to the Vercel project settings.
 
