@@ -18,9 +18,9 @@ This document outlines the full development plan for the Cryptex MVP. Follow the
           --entrypoint="install" \
           appwrite/appwrite:latest
       ```
-    - [ ] Navigate to `http://localhost` and create your root admin account.
-    - [ ] Create a new Project named `Cryptex`.
-    - [ ] Note down the **Project ID** and the **API Endpoint** (`http://localhost/v1`).
+    - [X] Navigate to `http://localhost` and create your root admin account.
+    - [X] Create a new Project named `Cryptex`.
+    - [X] Note down the **Project ID** and the **API Endpoint** (`http://localhost/v1`).
 
 - [X] **2. Initialize Next.js Project**
     - [X] Run the `pnpm create` command.
