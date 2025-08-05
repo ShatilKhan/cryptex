@@ -2,7 +2,8 @@
 
 supplier -> manufacturer -> merchandiser -> brand -> customer
 
-A new module - Higg Index for Environmental Impact Mapping
+A new module - Higg Index for Environmental Impact Mapping - Users could select which aspects they want to analyze & maybe the agent could help them, we'll probably need some formulas
+Use Appwrite Sites instead of Vercel for frontend deployment (update the todo accordingly via ai studio & ask for specific setup instructions)
 
 OCR for doc scanning & auto fillup forms (PO, INV)
 Brands -> imagen for model marketing
