@@ -2,6 +2,8 @@
 
 supplier -> manufacturer -> merchandiser -> brand -> customer
 
+A new module - Higg Index for Environmental Impact Mapping
+
 OCR for doc scanning & auto fillup forms (PO, INV)
 Brands -> imagen for model marketing
 Hedera + AI -> text & voice based product addition
